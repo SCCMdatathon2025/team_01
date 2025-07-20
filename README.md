@@ -20,7 +20,7 @@ Combat trauma care is high-stress, chaotic, and time-sensitive[1]. Documentation
 
 - **video_model.ipynb**
   
-
+  Uses transformers on multi-hot label vectors for video classification training.
 ---
 
 
