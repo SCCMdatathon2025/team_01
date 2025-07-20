@@ -4,13 +4,13 @@
 Combat trauma care is high-stress, chaotic, and time-sensitive[1]. Documentation is often delayed, incomplete, or inaccurate. In one report, fewer than 10% of combat casualties in Iraq and Afghanistan had pre-hospital care documentation[2]. Critical treatment events (e.g., tourniquet application, airway intervention) may be missed in after-action reports. Manual documentation burdens medics and reduces operational focus.
 
 ---
-*The following is a general description of the files:*
+*The following is a brief description of the files:*
 
 - **visualization.ipynb**  
-  Performs exploratory data analysis, visualizing key variables and trends. Likely uses packages such as pandas, matplotlib, and seaborn to summarize and visualize the data.
+  Performs exploratory data analysis, visualizing key variables and trends. 
 
 - **model.ipynb**  
-  Cleans and prepares raw data for analysis or modeling. Common steps may include handling missing values, encoding categorical variables, and normalizing data. Packages such as pandas and scikit-learn are typically used.
+  Automates the process of preparing a custom object detection dataset and training a YOLOv8 model. 
 
 ---
 
