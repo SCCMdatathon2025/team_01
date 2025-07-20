@@ -23,11 +23,6 @@ Combat trauma care is high-stress, chaotic, and time-sensitive[1]. Documentation
 
 ---
 
-## Getting Started
-
-Clone the repo and open notebooks in Jupyter or your preferred environment to begin exploring the VECTOR project.
-
----
 
 ## References
 
