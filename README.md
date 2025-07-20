@@ -1,7 +1,7 @@
 # TEAM 1: VECTOR – Video-Enhanced Combat Trauma Observation and Resuscitation
 ![TATRC_FPPOV_27924](https://github.com/user-attachments/assets/562c1e0b-4f7d-482c-916a-79236992b124)
 
-Combat trauma care is high-stress, chaotic, and time-sensitive[1]. Documentation is often delayed, incomplete, or inaccurate. In one report, fewer than 10% of combat casualties in Iraq and Afghanistan had pre-hospital care documentation[2]. Critical treatment events (e.g., tourniquet application, airway intervention) may be missed in after-action reports. Manual documentation burdens medics and reduces operational focus.
+Combat trauma care is inherently high-stress, chaotic, and time-sensitive. As a result, documentation is often delayed, incomplete, or inaccurate. One report found that fewer than 10% of combat casualties in Iraq and Afghanistan had any pre-hospital care documentation [1]. This gap means that critical treatment events—such as tourniquet application or airway intervention—are frequently missed in after-action reports. Manual documentation also places an added burden on medics, reducing their operational focus during critical moments [2].
 
 ---
 *The following is a brief description of the files:*
