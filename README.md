@@ -6,10 +6,13 @@ Combat trauma care is high-stress, chaotic, and time-sensitive[1]. Documentation
 ---
 *The following is a brief description of the files:*
 
-- **visualization.ipynb**  
+- **autodoc_exploration.ipynb**
+  Introductory preview of AutoDoc. 
+
+- **object_result_visualization.ipynb**  
   Performs exploratory data analysis, visualizing key variables and trends. 
 
-- **model.ipynb**  
+- **object_model.ipynb**  
   Automates the process of preparing a custom object detection dataset and training a YOLOv8 model. 
 
 ---
@@ -23,6 +26,7 @@ Clone the repo and open notebooks in Jupyter or your preferred environment to be
 ## References
 
 [1] Death on the battlefield (2001–2011) Implications for the future of combat casualty care. DOI: 10.1097/TA.0b013e3182755dcc
+
 [2] The Tactical Combat Casualty Care Casualty Card https://apps.dtic.mil/sti/tr/pdf/ADA616640.pdf
 
 ---
