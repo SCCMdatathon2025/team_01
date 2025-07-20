@@ -10,7 +10,7 @@ Combat trauma care is inherently high-stress, chaotic, and time-sensitive[1]. As
   
   Introductory preview of AutoDoc. 
 
-- **object_result_visualization.ipynb**
+- **autodoc_visualization.ipynb**
   
   Performs exploratory data analysis, visualizing key variables and trends. 
 
