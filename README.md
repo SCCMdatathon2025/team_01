@@ -7,13 +7,19 @@ Combat trauma care is high-stress, chaotic, and time-sensitive[1]. Documentation
 *The following is a brief description of the files:*
 
 - **autodoc_exploration.ipynb**
+  
   Introductory preview of AutoDoc. 
 
-- **object_result_visualization.ipynb**  
+- **object_result_visualization.ipynb**
+  
   Performs exploratory data analysis, visualizing key variables and trends. 
 
-- **object_model.ipynb**  
-  Automates the process of preparing a custom object detection dataset and training a YOLOv8 model. 
+- **object_model.ipynb**
+  
+  Process of preparing a custom object detection dataset and training a YOLOv8 model.
+
+- **video_model.ipynb**
+  
 
 ---
 
